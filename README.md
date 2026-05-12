@@ -14,8 +14,8 @@
   
 
 ## 📊 GitHub Stats
-![Murari's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MurariChowdary&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MurariChowdary&layout=compact&theme=radical)
+[Murari's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MurariChowdary&show_icons=true&theme=radical)
+[Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MurariChowdary&layout=compact&theme=radical)
 
 ## 📫 How to Reach Me
 - [LinkedIn](https://www.linkedin.com/in/murarichowdary/)
